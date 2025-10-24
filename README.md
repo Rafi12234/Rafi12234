@@ -159,22 +159,21 @@ Exploring AI-driven features and intelligent user experiences through modern web
 
 <div align="center">
 
-<a href="https://github.com/Rafi12234">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafi12234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rafi12234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi12234&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafi12234&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Rafi12234&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi12234&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafi12234&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
