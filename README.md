@@ -1,99 +1,246 @@
-<!-- Profile README for @Rafi12234 | Last updated: Oct 24, 2025 -->
+# 👋 Hey there, I'm Rafi! 
 
-<h1 align="center">Hi, I'm Shajedul Kabir Rafi 👋</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  Tech enthusiast & CSE student building Full-Stack Web and Android apps — always learning, always shipping.
-</p>
+</div>
 
-### 🚀 What I’m focused on
-- **Full-Stack apps** with React / Firebase and Node.js
-- **Android / Flutter** projects for real communities and clubs
-- Practical ML/AI experiments and tools (image gen, audio, etc.)
-
-### 🧰 Tech Toolbox
-<!-- Add / remove to taste -->
-- **Languages:** JavaScript, Dart, Python, C++
-- **Web:** React, Vite, Next.js (learning), Tailwind CSS, Firebase (Auth, Firestore, Storage)
-- **Mobile:** Flutter, Android Studio
-- **Backend/DevOps:** Node.js/Express, REST APIs, MongoDB (learning), GitHub Actions (basics)
-- **Tools:** Git/GitHub, VS Code, Postman, Figma
+```typescript
+const rafi = {
+    location: "Dhaka, Bangladesh 🇧🇩",
+    education: "CSE Student | Tech Enthusiast",
+    currentFocus: ["Full-Stack Web Dev", "Flutter Apps", "AI/ML Experiments"],
+    motto: "Building solutions that matter 💡",
+    funFact: "I turn ☕ into <code/>"
+};
+```
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Arsenal
 
-- **AUST Robotics Club – Mobile App**  
-  Flutter app for club activities and members. *(Dart)*  
-  Repo: 👉 `AUST-Robotics-Club-Mobile-Application`  
-  <a href="https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application">View on GitHub</a>
+<div align="center">
 
-- **Pregnancy Companion (Web, Firebase)**  
-  Web app with Firebase integration (Auth/DB) for guidance and tracking. *(JavaScript)*  
-  Repos: 👉 `Pregnancy-Companion-Web-App-with-Firebase` · `Pregnancy-Companion-Web-App`  
-  <a href="https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase">Main repo</a>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- **StratifyAI**  
-  Frontend/JS exploration around AI-driven features. *(JavaScript)*  
-  <a href="https://github.com/Rafi12234/StratifyAI">View on GitHub</a>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **Student Management System for AUSTians**  
-  App + Admin panel for managing student data. *(Dart / Flutter)*  
-  <a href="https://github.com/Rafi12234/Student-Management-System-for-AUSTians">App</a> ·
-  <a href="https://github.com/Rafi12234/Student-Management-System-for-AUSTians-Admin-Panel">Admin Panel</a>
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-- **PDF → Audio Converter**  
-  Python utility to convert PDFs to speech/audio. *(Python)*  
-  <a href="https://github.com/Rafi12234/Pdf-to-Audio-Convertor">View on GitHub</a>
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **AI Image Generator (Notebook)**  
-  Notebook experiments for image generation. *(Jupyter/Python)*  
-  <a href="https://github.com/Rafi12234/Ai-Image-Generator">View on GitHub</a>
-
-> Explore more:  
-> `Full-Stack-Demo-Ecommerce` · `Demo-Web-App-with-Firebase-Integration` · `WhatsApp-Messages-Analyzer` · `NutriTrack` · `tic-tac-toe` · `Flappy--Bird` · `Detecting-Israeli-Product` · `calculator_app` · `Note-App`
+</div>
 
 ---
 
-### 📊 GitHub at a glance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafi12234&show_icons=true&hide_rank=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafi12234" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi12234&layout=compact" alt="Top Languages" />
-</p>
+## 🚀 Featured Projects
 
-> Tip: If any of these cards don’t load, they’re third-party services. You can remove them or replace with static shields.
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AUST Robotics Club App
+**Flutter | Dart | Mobile Development**
+
+A comprehensive mobile application for managing club activities, events, and member engagement at AUST Robotics Club.
+
+**Features:**
+- 📅 Event scheduling & notifications
+- 👥 Member management system
+- 📢 Announcements & updates
+- 📊 Activity tracking
+
+[View Repository →](https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application)
+
+</td>
+<td width="50%">
+
+### 🤰 Pregnancy Companion
+**React | Firebase | Full-Stack**
+
+A full-featured web application providing guidance, tracking, and community support for expecting mothers.
+
+**Tech Stack:**
+- 🔐 Firebase Authentication
+- 💾 Firestore Database
+- 📦 Cloud Storage
+- ⚡ Real-time updates
+
+[Main Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Student Management System
+**Flutter | Admin Panel | CRUD Operations**
+
+Complete student management solution with dedicated mobile app and admin panel for AUSTians.
+
+**Highlights:**
+- 📱 Cross-platform mobile app
+- 💻 Web-based admin dashboard
+- 📊 Data analytics & reports
+- 🔒 Secure authentication
+
+[App Repo →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians)
+
+</td>
+<td width="50%">
+
+### 🧠 StratifyAI
+**JavaScript | AI Integration | Frontend**
+
+Exploring AI-driven features and intelligent user experiences through modern web technologies.
+
+**Focus Areas:**
+- 🤖 AI feature integration
+- 🎯 Smart recommendations
+- 🔮 Predictive interfaces
+
+[View Repository →](https://github.com/Rafi12234/StratifyAI)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗺️ Roadmap (next up)
-- ✅ Publish screenshots / GIFs for each project in READMEs
-- ✅ Add short descriptions + live demo links (where possible)
-- ⏭️ Write unit tests and basic CI (GitHub Actions) for web apps
-- ⏭️ Deploy a demo of **Full-Stack-Demo-Ecommerce** (Vercel/Render)
-- ⏭️ Refactor Firebase rules & add security notes
+## 🧪 Mini Projects & Experiments
+
+<details>
+<summary>📂 Click to explore more projects!</summary>
+
+### 🎨 Web Applications
+- **[Full-Stack Demo Ecommerce](https://github.com/Rafi12234/Full-Stack-Demo-Ecommerce)** - Complete e-commerce platform demo
+- **[Firebase Integration Demo](https://github.com/Rafi12234/Demo-Web-App-with-Firebase-Integration)** - Firebase features showcase
+- **[NutriTrack](https://github.com/Rafi12234/NutriTrack)** - Nutrition tracking application
+
+### 🤖 AI/ML Tools
+- **[AI Image Generator](https://github.com/Rafi12234/Ai-Image-Generator)** - Jupyter notebook for image generation
+- **[PDF to Audio Converter](https://github.com/Rafi12234/Pdf-to-Audio-Convertor)** - Python utility for text-to-speech conversion
+
+### 📊 Utilities
+- **[WhatsApp Messages Analyzer](https://github.com/Rafi12234/WhatsApp-Messages-Analyzer)** - Chat history analysis tool
+- **[Detecting Israeli Products](https://github.com/Rafi12234/Detecting-Israeli-Product)** - Product identification system
+
+### 🎮 Fun Projects
+- **[Flappy Bird](https://github.com/Rafi12234/Flappy--Bird)** - Classic game recreation
+- **[Tic Tac Toe](https://github.com/Rafi12234/tic-tac-toe)** - Interactive game
+- **[Calculator App](https://github.com/Rafi12234/calculator_app)** - Simple calculator
+- **[Note App](https://github.com/Rafi12234/Note-App)** - Note-taking application
+
+</details>
 
 ---
 
-### 🤝 Let’s connect
-- Instagram: [@___r_._a_._f_._i___](https://www.instagram.com/___r_._a_._f_._i___)
-- Facebook: [shajidul.kabir.5](https://www.facebook.com/shajidul.kabir.5)
-- Email: *(add your preferred email here)*
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafi12234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafi12234&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<!-- Optional: Achievements badge (Pull Shark etc.) lives on your profile already -->
-<!-- Optional: Profile views counter (use if you like): -->
-<!-- <img src="https://komarev.com/ghpvc/?username=Rafi12234" alt="profile views" /> -->
+## 🎯 Current Goals & Roadmap
 
-<!--
-Quick edit checklist:
-1) Keep "Featured Projects" in sync with your pinned repos.
-2) Add live links (Vercel/Netlify/Play Store) when available.
-3) Replace or remove dynamic stats images if they’re slow.
-4) Update the Roadmap as you learn & ship.
--->
+```mermaid
+graph LR
+    A[✅ Master React & Firebase] --> B[⏳ Learn Next.js]
+    B --> C[⏳ MongoDB Integration]
+    C --> D[🎯 Full-Stack Production App]
+    A --> E[⏳ CI/CD with GitHub Actions]
+    E --> F[🎯 Deploy Demo Projects]
+    A --> G[✅ Build Flutter Apps]
+    G --> H[🎯 Play Store Launch]
+```
+
+### 🔥 In Progress
+- 📚 Learning Next.js for server-side rendering
+- 🗄️ Integrating MongoDB in full-stack projects
+- 🧪 Writing unit tests & implementing CI/CD
+- 🚀 Deploying production-ready demos
+
+### ✨ Upcoming
+- 📱 Launch apps on Google Play Store
+- 🌐 Build a personal portfolio website
+- 🤝 Contribute to open-source projects
+- 📝 Write technical blogs & tutorials
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Rafi12234&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+```
+📦 10+ Projects Built        🚀 Active GitHub Contributor
+🎓 CSE Student               💡 Problem Solver
+🔧 Full-Stack Developer      📱 Mobile App Creator
+🤖 AI/ML Enthusiast          ☕ Coffee-Powered Coder
+```
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___r_._a_._f_._i___)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shajidul.kabir.5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+⭐️ **If you like my work, consider giving a star to my repositories!**
+
+**Made with ❤️ and lots of ☕**
+
+</div>
