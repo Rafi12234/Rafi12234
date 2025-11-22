@@ -1,7 +1,11 @@
-# 👋 Hey there, I'm Shajedul Kabir Rafi! 
+# 👋 Hey there, I'm Shajedul Kabir Rafi!
 
 <div align="center">
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rafi12234&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge)](https://portfolio-website-murex-kappa-83.vercel.app)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -24,11 +28,11 @@ const rafi = {
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🎨 Frontend
@@ -47,6 +51,9 @@ const rafi = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -85,7 +92,7 @@ A full-featured web application providing guidance, tracking, and community supp
 - 📦 Cloud Storage
 - ⚡ Real-time updates
 
-[Main Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase)
+[Main Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase) | [Alt Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App)
 
 </td>
 </tr>
@@ -104,7 +111,7 @@ Complete student management solution with dedicated mobile app and admin panel f
 - 📊 Data analytics & reports
 - 🔒 Secure authentication
 
-[App Repo →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians)
+[App Repo →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians) | [Admin Panel →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians-Admin-Panel)
 
 </td>
 <td width="50%">
@@ -195,12 +202,16 @@ graph LR
 ### 🔥 In Progress
 - 📚 Learning Next.js for server-side rendering
 - 🗄️ Integrating MongoDB in full-stack projects
-- 🧪 Writing unit tests & implementing CI/CD
-- 🚀 Deploying production-ready demos
+- 🧪 Writing unit tests & implementing CI/CD with GitHub Actions
+- 🚀 Deploying production-ready demos (Vercel/Render)
+
+### ✅ Recently Completed
+- 📸 Added screenshots/GIFs for project READMEs
+- 📝 Added descriptions + live demo links
 
 ### ✨ Upcoming
+- 🔐 Refactor Firebase rules & add security notes
 - 📱 Launch apps on Google Play Store
-- 🌐 Build a personal portfolio website
 - 🤝 Contribute to open-source projects
 - 📝 Write technical blogs & tutorials
 
@@ -208,14 +219,8 @@ graph LR
 
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Rafi12234&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
 ```
-📦 10+ Projects Built        🚀 Active GitHub Contributor
+📦 15+ Projects Built        🚀 Active GitHub Contributor
 🎓 CSE Student               💡 Problem Solver
 🔧 Full-Stack Developer      📱 Mobile App Creator
 🤖 AI/ML Enthusiast          ☕ Coffee-Powered Coder
@@ -237,6 +242,7 @@ graph LR
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-murex-kappa-83.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___r_._a_._f_._i___)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shajidul.kabir.5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
