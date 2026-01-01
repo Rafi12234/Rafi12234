@@ -1,201 +1,595 @@
-# 👋 Hey there, I'm Shajedul Kabir Rafi!
+
+<!-- About Me Section -->
+<img align="center" alt="Coding" width="1000" height="1000" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              🚀 ULTIMATE PROFESSIONAL HEADER - RAFI'S PROFILE 🚀        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SHAJEDUL%20KABIR%20RAFI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Creator%20%7C%20AI%20Enthusiast%20%E2%9A%A1&descAlignY=55&descSize=16" width="100%"/>
+  
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rafi12234&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Status & Typing Section -->
+<div align="center">
+  
+  <!-- Live Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-00D9FF?style=flat-square&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00FF00?style=flat-square&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-F85D7F?style=flat-square&labelColor=0D1117"/>
+  </p>
+  
+  <br/>
+  
+  <!-- Primary Typing Animation -->
+  <a href="https://github.com/Rafi12234">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);const+passion+%3D+%22Building+Products%22;while(alive)+%7B+eat();+sleep();+code();+%7D;git+commit+-m+%22Made+with+%E2%9D%A4%EF%B8%8F%22" alt="Typing SVG" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Secondary Skills Animation -->
+  <a href="https://github.com/Rafi12234">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=800&color=F8D866&center=true&vCenter=true&repeat=true&random=true&width=700&height=35&lines=%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;%F0%9F%92%99+Flutter+%E2%80%A2+Dart+%E2%80%A2+Firebase+%E2%80%A2+Android+Studio;%F0%9F%A4%96+Python+%E2%80%A2+TensorFlow+%E2%80%A2+Machine+Learning;%F0%9F%8E%A8+TailwindCSS+%E2%80%A2+Figma+%E2%80%A2+UI%2FUX+Design" alt="Skills Typing" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge)](https://portfolio-website-murex-kappa-83.vercel.app)
+  <!-- Animated Line -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9C%A8)](https://git.io/typing-svg)
-
+</div>
+  
+  <!-- Role Animation -->
+  <a href="https://github.com/Rafi12234">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=800&height=45&lines=Full-Stack+Developer+%E2%9A%A1+Mobile+App+Creator;React+%7C+Flutter+%7C+Node.js+%7C+Firebase;Transforming+Ideas+into+Digital+Reality;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Roles" />
+  </a>
+  
 </div>
 
 ```typescript
 const rafi = {
+    pronouns: "He" | "Him",
     location: "Dhaka, Bangladesh 🇧🇩",
-    education: "CSE Student | Tech Enthusiast",
-    currentFocus: ["Full-Stack Web Dev", "Flutter Apps", "AI/ML Experiments"],
-    motto: "Building solutions that matter 💡",
-    funFact: "I turn ☕ into <code/>"
+    education: "CSE Student @ AUST",
+    
+    currentlyWorking: [
+        "Full-Stack Web Development",
+        "Flutter Mobile Apps", 
+        "AI/ML Experiments"
+    ],
+    
+    learning: ["Next.js", "MongoDB", "DevOps"],
+    askMeAbout: ["React", "Flutter", "Firebase", "Python"],
+    
+    dailyRoutine: {
+        morning: "☕ Coffee",
+        afternoon: "💻 Code",
+        evening: "🔧 Debug",
+        night: "📚 Learn"
+    },
+    
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
-
 ---
-
-## 🛠️ Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                    🛠️ ULTIMATE PROFESSIONAL TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## ⚡ Tech Stack & Expertise
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<br/>
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Animated Header -->
+<a href="https://github.com/Rafi12234">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=💻+Technologies+I+Master;🚀+Tools+That+Power+My+Work;⚡+Always+Evolving+My+Skills" alt="Tech Header"/>
+</a>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════ LANGUAGES ═══════════════════════ -->
+<div align="center">
+
+### 「 💻 Programming Languages 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css&theme=dark" alt="Programming Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ FRAMEWORKS ═══════════════════════ -->
+<div align="center">
+
+### 「 🎨 Frontend & Frameworks 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui,sass,redux&theme=dark" alt="Frontend & Frameworks"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ MOBILE ═══════════════════════ -->
+<div align="center">
+
+### 「 📱 Mobile Development 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark" alt="Mobile Development"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ BACKEND ═══════════════════════ -->
+<div align="center">
+
+### 「 ⚙️ Backend & Database 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,sqlite,fastapi&theme=dark" alt="Backend & Database"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ TOOLS ═══════════════════════ -->
+<div align="center">
+
+### 「 🔧 DevOps & Tools 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,netlify,linux,docker,npm,yarn&theme=dark" alt="DevOps & Tools"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ AI/ML ═══════════════════════ -->
+<div align="center">
+
+### 「 🤖 AI/ML & Data Science 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" alt="AI/ML"/>
+</a>
+
+<br/><br/>
+
+<!-- Additional AI/ML icons using devicons -->
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SKILL ICONS ═══════════════════════ -->
+<div align="center">
+
+### 「 🎯 All Technologies at a Glance 」
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css,react,nextjs,vite,tailwind,bootstrap,flutter,androidstudio,nodejs,express,firebase,mongodb,mysql,git,github,vscode,postman,figma,vercel,linux,docker&theme=dark&perline=10" alt="Tech Stack"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ANIMATED ICONS ═══════════════════════ -->
+<div align="center">
+
+### 「 ⚡ Core Competencies 」
+
+<br/>
+
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
+<div align="center">
+
+### 「 📊 Proficiency Levels 」
+
+<br/>
+
+| 🏷️ Category | 🛠️ Technologies | 📈 Proficiency |
+|:----------:|:----------------|:--------------:|
+| **Frontend** | React, Next.js, Vite, TailwindCSS | ![](https://geps.dev/progress/95) |
+| **Mobile** | Flutter, Dart, Android | ![](https://geps.dev/progress/90) |
+| **Backend** | Node.js, Express, Firebase | ![](https://geps.dev/progress/85) |
+| **Database** | MongoDB, MySQL, Firebase | ![](https://geps.dev/progress/80) |
+| **Languages** | JavaScript, Dart, Python, C++ | ![](https://geps.dev/progress/90) |
+| **DevOps** | Git, GitHub Actions, Docker | ![](https://geps.dev/progress/75) |
+| **AI/ML** | TensorFlow, Pandas, NumPy | ![](https://geps.dev/progress/60) |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Stats Summary -->
+<p>
+  <img src="https://img.shields.io/badge/Total_Technologies-40+-F85D7F?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Years_of_Experience-1.5+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Projects_Completed-20+-F8D866?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+</div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=🎯+Explore+My+Top+Projects;💡+Built+with+Passion+%26+Purpose;🔥+Innovation+Meets+Code" alt="Projects Header" />
+
+<br/>
+
+<!-- Decorative Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- Project Cards Grid -->
+<table align="center" border="0" cellpadding="20" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🤖_AUST_Robotics_Club_App-6C63FF?style=for-the-badge&logoColor=white" alt="Project Badge"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+> 📱 **Comprehensive Mobile Application** for managing club activities, events, and member engagement
+
 <table>
-<tr>
-<td width="50%">
+<tr><td>📅</td><td>Event scheduling & smart notifications</td></tr>
+<tr><td>👥</td><td>Complete member management system</td></tr>
+<tr><td>📢</td><td>Real-time announcements & updates</td></tr>
+<tr><td>📊</td><td>Activity tracking & analytics</td></tr>
+</table>
 
-### 🤖 AUST Robotics Club App
-**Flutter | Dart | Mobile Development**
+<div align="center">
+  
+[![View Repo](https://img.shields.io/badge/View_Repository-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application)
 
-A comprehensive mobile application for managing club activities, events, and member engagement at AUST Robotics Club.
-
-**Features:**
-- 📅 Event scheduling & notifications
-- 👥 Member management system
-- 📢 Announcements & updates
-- 📊 Activity tracking
-
-[View Repository →](https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application)
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤰 Pregnancy Companion
-**React | Firebase | Full-Stack**
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🤰_Pregnancy_Companion-FF6B9D?style=for-the-badge&logoColor=white" alt="Project Badge"/>
 
-A full-featured web application providing guidance, tracking, and community support for expecting mothers.
+<br/><br/>
 
-**Tech Stack:**
-- 🔐 Firebase Authentication
-- 💾 Firestore Database
-- 📦 Cloud Storage
-- ⚡ Real-time updates
+<img src="https://skillicons.dev/icons?i=react,firebase,js&theme=dark" alt="Tech Stack"/>
 
-[Main Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase) | [Alt Repo →](https://github.com/Rafi12234/Pregnancy-Companion-Web-App)
+</div>
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="50%">
+> 💜 **Full-Featured Web Application** providing guidance, tracking & community support for expecting mothers
 
-### 🎓 Student Management System
-**Flutter | Admin Panel | CRUD Operations**
+<table>
+<tr><td>🔐</td><td>Firebase Authentication</td></tr>
+<tr><td>💾</td><td>Firestore Real-time Database</td></tr>
+<tr><td>📦</td><td>Cloud Storage Integration</td></tr>
+<tr><td>⚡</td><td>Real-time sync & updates</td></tr>
+</table>
 
-Complete student management solution with dedicated mobile app and admin panel for AUSTians.
+<div align="center">
+  
+[![Main Repo](https://img.shields.io/badge/Main_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase) [![Alt Repo](https://img.shields.io/badge/Alt_Repo-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Pregnancy-Companion-Web-App)
 
-**Highlights:**
-- 📱 Cross-platform mobile app
-- 💻 Web-based admin dashboard
-- 📊 Data analytics & reports
-- 🔒 Secure authentication
-
-[App Repo →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians) | [Admin Panel →](https://github.com/Rafi12234/Student-Management-System-for-AUSTians-Admin-Panel)
-
-</td>
-<td width="50%">
-
-### 🧠 StratifyAI
-**JavaScript | AI Integration | Frontend**
-
-Exploring AI-driven features and intelligent user experiences through modern web technologies.
-
-**Focus Areas:**
-- 🤖 AI feature integration
-- 🎯 Smart recommendations
-- 🔮 Predictive interfaces
-
-[View Repository →](https://github.com/Rafi12234/StratifyAI)
+</div>
 
 </td>
 </tr>
 
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 IIUC 25 Version 2.0
-**Web Development | Event Management**
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🎓_Student_Management_System-00D9FF?style=for-the-badge&logoColor=white" alt="Project Badge"/>
 
-Modern web application for IIUC event management and coordination.
+<br/><br/>
 
-**Highlights:**
-- 🌐 Responsive design
-- 📱 Mobile-friendly interface
-- 🔄 Real-time updates
-- 👥 User management
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Tech Stack"/>
 
-[View Repository →](https://github.com/Rafi12234/IIUC_25_Version2.0)
+</div>
+
+<br/>
+
+> 🏫 **Complete Management Solution** with dedicated mobile app & admin panel for AUSTians
+
+<table>
+<tr><td>📱</td><td>Cross-platform mobile application</td></tr>
+<tr><td>💻</td><td>Web-based admin dashboard</td></tr>
+<tr><td>📊</td><td>Data analytics & reports</td></tr>
+<tr><td>🔒</td><td>Secure role-based authentication</td></tr>
+</table>
+
+<div align="center">
+  
+[![App Repo](https://img.shields.io/badge/App_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Student-Management-System-for-AUSTians) [![Admin Panel](https://img.shields.io/badge/Admin_Panel-FF9F43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Student-Management-System-for-AUSTians-Admin-Panel)
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Robomania 2.0 Main WebApp
-**React | Event Platform | Robotics**
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🧠_StratifyAI-A855F7?style=for-the-badge&logoColor=white" alt="Project Badge"/>
 
-Comprehensive web platform for robotics competition management and participant engagement.
+<br/><br/>
 
-**Key Features:**
-- 🏆 Competition tracking
-- 📊 Leaderboards
-- 📝 Registration system
-- 🎮 Interactive dashboard
+<img src="https://skillicons.dev/icons?i=js,react,python&theme=dark" alt="Tech Stack"/>
 
-[View Repository →](https://github.com/Rafi12234/Robomania-2.0-Main-_WebApp)
+</div>
+
+<br/>
+
+> 🤖 **AI-Driven Features** exploring intelligent user experiences through modern web technologies
+
+<table>
+<tr><td>🤖</td><td>AI feature integration</td></tr>
+<tr><td>🎯</td><td>Smart recommendations engine</td></tr>
+<tr><td>🔮</td><td>Predictive user interfaces</td></tr>
+<tr><td>✨</td><td>Machine learning models</td></tr>
+</table>
+
+<div align="center">
+  
+[![View Repo](https://img.shields.io/badge/View_Repository-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/StratifyAI)
+
+</div>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🎯_IIUC_25_Version_2.0-10B981?style=for-the-badge&logoColor=white" alt="Project Badge"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+> 🌐 **Modern Web Application** for IIUC event management and coordination
+
+<table>
+<tr><td>🌐</td><td>Fully responsive design</td></tr>
+<tr><td>📱</td><td>Mobile-first interface</td></tr>
+<tr><td>🔄</td><td>Real-time event updates</td></tr>
+<tr><td>👥</td><td>User management portal</td></tr>
+</table>
+
+<div align="center">
+  
+[![View Repo](https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/IIUC_25_Version2.0)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/🤖_Robomania_2.0_WebApp-F59E0B?style=for-the-badge&logoColor=white" alt="Project Badge"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Tech Stack"/>
+
+</div>
+
+<br/>
+
+> 🏆 **Comprehensive Web Platform** for robotics competition management & participant engagement
+
+<table>
+<tr><td>🏆</td><td>Competition tracking system</td></tr>
+<tr><td>📊</td><td>Live leaderboards</td></tr>
+<tr><td>📝</td><td>Registration & team management</td></tr>
+<tr><td>🎮</td><td>Interactive dashboard</td></tr>
+</table>
+
+<div align="center">
+  
+[![View Repo](https://img.shields.io/badge/View_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Robomania-2.0-Main-_WebApp)
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<!-- Decorative Divider -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
 
 ## 🧪 Mini Projects & Experiments
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=📂+Explore+More+Creations;🔬+Experiments+%26+Fun+Projects;💡+Ideas+Brought+to+Life" alt="Mini Projects Header" />
+
+</div>
+
+<br/>
+
 <details>
-<summary>📂 Click to explore more projects!</summary>
+<summary>
+<img src="https://img.shields.io/badge/🎨_WEB_APPLICATIONS-6C63FF?style=for-the-badge" alt="Web Apps"/>
+</summary>
 
-### 🎨 Web Applications
-- **[Full-Stack Demo Ecommerce](https://github.com/Rafi12234/Full-Stack-Demo-Ecommerce)** - Complete e-commerce platform demo
-- **[Firebase Integration Demo](https://github.com/Rafi12234/Demo-Web-App-with-Firebase-Integration)** - Firebase features showcase
-- **[NutriTrack](https://github.com/Rafi12234/NutriTrack)** - Nutrition tracking application
+<br/>
 
-### 🤖 AI/ML Tools
-- **[AI Image Generator](https://github.com/Rafi12234/Ai-Image-Generator)** - Jupyter notebook for image generation
-- **[PDF to Audio Converter](https://github.com/Rafi12234/Pdf-to-Audio-Convertor)** - Python utility for text-to-speech conversion
+<div align="center">
 
-### 📊 Utilities
-- **[WhatsApp Messages Analyzer](https://github.com/Rafi12234/WhatsApp-Messages-Analyzer)** - Chat history analysis tool
-- **[Detecting Israeli Products](https://github.com/Rafi12234/Detecting-Israeli-Product)** - Product identification system
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [![Ecommerce](https://img.shields.io/badge/Full--Stack_Ecommerce-FF6B6B?style=flat-square&logo=shopify&logoColor=white)](https://github.com/Rafi12234/Full-Stack-Demo-Ecommerce) | Complete e-commerce platform demo | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [![Firebase Demo](https://img.shields.io/badge/Firebase_Integration-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Rafi12234/Demo-Web-App-with-Firebase-Integration) | Firebase features showcase | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [![NutriTrack](https://img.shields.io/badge/NutriTrack-4CAF50?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/Rafi12234/NutriTrack) | Nutrition tracking application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-### 🎮 Fun Projects
-- **[Flappy Bird](https://github.com/Rafi12234/Flappy--Bird)** - Classic game recreation
-- **[Tic Tac Toe](https://github.com/Rafi12234/tic-tac-toe)** - Interactive game
-- **[Calculator App](https://github.com/Rafi12234/calculator_app)** - Simple calculator
-- **[Note App](https://github.com/Rafi12234/Note-App)** - Note-taking application
+</div>
 
 </details>
 
----
+<details>
+<summary>
+<img src="https://img.shields.io/badge/🤖_AI/ML_TOOLS-A855F7?style=for-the-badge" alt="AI/ML"/>
+</summary>
+
+<br/>
+
+<div align="center">
+
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [![AI Image Gen](https://img.shields.io/badge/AI_Image_Generator-8B5CF6?style=flat-square&logo=openai&logoColor=white)](https://github.com/Rafi12234/Ai-Image-Generator) | Jupyter notebook for image generation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [![PDF to Audio](https://img.shields.io/badge/PDF_to_Audio-EC4899?style=flat-square&logo=adobe&logoColor=white)](https://github.com/Rafi12234/Pdf-to-Audio-Convertor) | Python utility for text-to-speech | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+</details>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/📊_UTILITIES-00D9FF?style=for-the-badge" alt="Utilities"/>
+</summary>
+
+<br/>
+
+<div align="center">
+
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [![WhatsApp Analyzer](https://img.shields.io/badge/WhatsApp_Analyzer-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/Rafi12234/WhatsApp-Messages-Analyzer) | Chat history analysis tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [![Product Detector](https://img.shields.io/badge/Product_Identifier-EF4444?style=flat-square&logo=target&logoColor=white)](https://github.com/Rafi12234/Detecting-Israeli-Product) | Product identification system | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
+
+</details>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/🎮_FUN_PROJECTS-F59E0B?style=for-the-badge" alt="Fun Projects"/>
+</summary>
+
+<br/>
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| [![Flappy Bird](https://img.shields.io/badge/🐦_Flappy_Bird-84CC16?style=for-the-badge)](https://github.com/Rafi12234/Flappy--Bird) | [![Tic Tac Toe](https://img.shields.io/badge/⭕_Tic_Tac_Toe-3B82F6?style=for-the-badge)](https://github.com/Rafi12234/tic-tac-toe) | [![Calculator](https://img.shields.io/badge/🔢_Calculator-8B5CF6?style=for-the-badge)](https://github.com/Rafi12234/calculator_app) | [![Note App](https://img.shields.io/badge/📝_Note_App-F97316?style=for-the-badge)](https://github.com/Rafi12234/Note-App) |
+| Classic game recreation | Interactive game | Simple calculator | Note-taking app |
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<!-- Call to Action -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer&animation=twinkling" width="100%"/>
+
+<br/>
+
+[![Explore All Repos](https://img.shields.io/badge/🔍_Explore_All_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234?tab=repositories)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=⭐+Star+the+repos+if+you+find+them+useful!;🤝+Open+to+collaborations+%26+contributions" alt="Footer Message" />
+
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -262,6 +656,20 @@ Comprehensive web platform for robotics competition management and participant e
 
 </div>
 </details>
+
+---
+
+---
+
+## 🌍 Global Contribution Insights
+
+<div align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/Rafi12234?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
+    alt="3D Contribution Chart"
+    width="100%"
+  />
+</div>
 
 ---
 
