@@ -20,12 +20,12 @@
   
   <!-- Main Visitor Counter with Animation -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Rafi12234&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Rafi12234&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Rafi12234?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers"/>
   </p>
   
-  <!-- Alternative Visitor Counters (Multiple Styles) -->
+  <!-- Alternative Visitor Counter -->
   <p>
-    <img src="https://visitcount.itsvg.in/api?id=Rafi12234&icon=5&color=6" alt="Visit Count" />
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRafi12234&count_bg=%23F85D7F&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Total+Visitors&edge_flat=false" alt="Total Visitors"/>
   </p>
   
@@ -33,10 +33,14 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/dynamic/json?color=F85D7F&label=Total%20Visitors&query=value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fcombined%3Fpath%3DRafi12234%26labelColor%3D%230D1117%26countColor%3D%23F85D7F&style=for-the-badge&logo=github&logoColor=white" alt="Total Visitors"/>
+        <a href="https://visitorbadge.io/status?path=Rafi12234">
+          <img src="https://api.visitorbadge.io/api/combined?path=Rafi12234&labelColor=%230D1117&countColor=%23F85D7F&style=for-the-badge&labelStyle=upper" alt="Total Visitors"/>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Today's%20Views&query=value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fdaily%3Fpath%3DRafi12234%26labelColor%3D%230D1117%26countColor%3D%2300D9FF&style=for-the-badge&logo=eye&logoColor=white" alt="Daily Views"/>
+        <a href="https://visitorbadge.io/status?path=Rafi12234">
+          <img src="https://api.visitorbadge.io/api/daily?path=Rafi12234&labelColor=%230D1117&countColor=%2300D9FF&style=for-the-badge&label=Today" alt="Daily Views"/>
+        </a>
       </td>
     </tr>
   </table>
