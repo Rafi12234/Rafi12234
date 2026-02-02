@@ -1,4 +1,3 @@
-
 <!-- About Me Section -->
 <img align="center" alt="Coding" width="1000" height="1000" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -9,6 +8,43 @@
   
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SHAJEDUL%20KABIR%20RAFI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Creator%20%7C%20AI%20Enthusiast%20%E2%9A%A1&descAlignY=55&descSize=16" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════ VISITOR COUNTER SECTION ═══════════════════════ -->
+  
+  <!-- Animated Visitor Badge -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24,30&height=40&section=header&text=👀%20Profile%20Views&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="300"/>
+  
+  <br/>
+  
+  <!-- Main Visitor Counter with Animation -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Rafi12234&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  </p>
+  
+  <!-- Alternative Visitor Counters (Multiple Styles) -->
+  <p>
+    <img src="https://visitcount.itsvg.in/api?id=Rafi12234&icon=5&color=6" alt="Visit Count" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRafi12234&count_bg=%23F85D7F&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Total+Visitors&edge_flat=false" alt="Total Visitors"/>
+  </p>
+  
+  <!-- Interactive Visitor Stats Grid -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/dynamic/json?color=F85D7F&label=Total%20Visitors&query=value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fcombined%3Fpath%3DRafi12234%26labelColor%3D%230D1117%26countColor%3D%23F85D7F&style=for-the-badge&logo=github&logoColor=white" alt="Total Visitors"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Today's%20Views&query=value&url=https%3A%2F%2Fapi.visitorbadge.io%2Fapi%2Fdaily%3Fpath%3DRafi12234%26labelColor%3D%230D1117%26countColor%3D%2300D9FF&style=for-the-badge&logo=eye&logoColor=white" alt="Daily Views"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Decorative Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
+  <br/>
   
 </div>
 
@@ -747,5 +783,30 @@ graph LR
 ⭐️ **If you like my work, consider giving a star to my repositories!**
 
 **Made with ❤️ and lots of ☕**
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    👁️ TOTAL PROFILE ENGAGEMENT METRICS                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=2&section=footer" width="100%"/>
+
+<br/>
+
+<!-- Footer Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafi12234&style=flat-square&color=F85D7F&label=Total+Profile+Views" alt="Total Views"/>
+  <img src="https://img.shields.io/github/followers/Rafi12234?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Rafi12234?label=Total%20Stars&style=flat-square&color=F8D866&logo=github" alt="Total Stars"/>
+</p>
+
+<!-- Thank You Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀" alt="Thank You" />
+
+<br/>
+
+<!-- Final Decorative Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,24&height=100&section=footer" width="100%"/>
 
 </div>
