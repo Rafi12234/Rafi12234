@@ -5,6 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
   
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SHAJEDUL%20KABIR%20RAFI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Creator%20%7C%20AI%20Enthusiast%20%E2%9A%A1&descAlignY=55&descSize=16" width="100%"/>
