@@ -636,38 +636,30 @@ const rafi = {
 
 <div align="center">
 
-<!-- Using img tags with explicit loading and error handling -->
-<a href="https://github.com/Rafi12234">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafi12234&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
-</a>
-<a href="https://github.com/Rafi12234">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
-</a>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafi12234&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats with alternate domain -->
-<a href="https://github.com/Rafi12234">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Rafi12234&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-</a>
+<!-- GitHub Streak Stats - Using official DemoLab domain -->
+<img src="https://streak-stats.demolab.com/?user=Rafi12234&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak Stats"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Trophies -->
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafi12234&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Rafi12234&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
 <div align="center">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafi12234&custom_title=Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area_color=f8d866&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafi12234&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area_color=F8D866&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -677,23 +669,13 @@ const rafi = {
 <br/>
 <div align="center">
 
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi12234&theme=radical" alt="Profile Details"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi12234&theme=radical" alt="Profile Details"/>
 
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafi12234&theme=radical" alt="Repos Per Language"/>
-</a>
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafi12234&theme=radical" alt="Most Commit Language"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafi12234&theme=radical" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafi12234&theme=radical" alt="Most Commit Language"/>
 
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafi12234&theme=radical" alt="Stats"/>
-</a>
-<a href="https://github.com/Rafi12234">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi12234&theme=radical&utcOffset=6" alt="Productive Time"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafi12234&theme=radical" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi12234&theme=radical&utcOffset=6" alt="Productive Time"/>
 
 </div>
 </details>
