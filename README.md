@@ -4,7 +4,7 @@
 <!--              🚀 ULTIMATE PROFESSIONAL HEADER - RAFI'S PROFILE 🚀        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="Cennter">
+<div align="cennter">
 
   
   <!-- Animated Banner -->
