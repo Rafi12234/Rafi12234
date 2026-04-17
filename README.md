@@ -1,5 +1,5 @@
 <!-- About Me Section -->
-<img align="center" alt="Coding" width="1000" height="1000" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+<img align="center" alt="Coding" width="1000" height="600" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--              🚀 ULTIMATE PROFESSIONAL HEADER - RAFI'S PROFILE 🚀        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
