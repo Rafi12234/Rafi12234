@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="124" viewBox="0 0 1080 124" role="img" aria-label="Animated signing-off graphic: Always building the next thing">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#17090f"/><stop offset=".5" stop-color="#37121a"/><stop offset="1" stop-color="#15080d"/></linearGradient></defs>
+<rect width="1080" height="124" rx="9" fill="url(#g)"/>
+<path d="M30 21H1050M30 101H1050" stroke="#9f6c64" stroke-opacity=".44"/>
+<text x="540" y="56" font-family="Georgia,serif" text-anchor="middle" font-size="32" letter-spacing="2" fill="#f2d6b9">Always building the next thing.</text>
+<text x="540" y="84" font-family="Arial,sans-serif" text-anchor="middle" font-size="11" letter-spacing="4" fill="#be9186">ENGINEERING WITH INTENTION  /  RAFI</text>
+<path d="M425 97H655" stroke="#da8b76" stroke-width="2" stroke-dasharray="35 195"><animate attributeName="stroke-dashoffset" values="0;-230" dur="4s" repeatCount="indefinite"/></path>
+<circle cx="74" cy="62" r="3" fill="#e6af96"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="1006" cy="62" r="3" fill="#e6af96"><animate attributeName="opacity" values="1;.25;1" dur="2.7s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="206" viewBox="0 0 1080 206" role="img" aria-label="Animated terminal dashboard showing code, product, and research activity">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#210b12"/><stop offset=".6" stop-color="#10080c"/><stop offset="1" stop-color="#271019"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#8c3347"/><stop offset=".6" stop-color="#e2a18a"/><stop offset="1" stop-color="#4d1e2c"/></linearGradient></defs>
+<rect x="1" y="1" width="1078" height="204" rx="12" fill="url(#bg)" stroke="#925a5a" stroke-opacity=".6"/>
+<path d="M1 39H1079" stroke="#925a5a" stroke-opacity=".56"/>
+<circle cx="23" cy="20" r="5" fill="#ad5857"/><circle cx="41" cy="20" r="5" fill="#d8a17e"/><circle cx="59" cy="20" r="5" fill="#729b81"/>
+<text x="84" y="25" font-family="monospace" font-size="13" fill="#ba9d97">rafi@studio: ~/the-next-chapter</text>
+<circle cx="1011" cy="21" r="5" fill="#d9a388"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1024" y="26" font-family="monospace" font-size="12" fill="#dec2af">LIVE</text>
+<text x="27" y="74" font-family="monospace" font-size="16" fill="#df9684">$</text>
+<text x="54" y="74" font-family="monospace" font-size="16" fill="#f0d5bc">git status --short</text>
+<text x="27" y="109" font-family="monospace" font-size="15" fill="#c1a8a0">M  full-stack-products.ts</text>
+<text x="27" y="138" font-family="monospace" font-size="15" fill="#c1a8a0">M  mobile-experiences.dart</text>
+<text x="27" y="167" font-family="monospace" font-size="15" fill="#c1a8a0">+  research-experiments.py</text>
+<rect x="27" y="186" width="380" height="2" fill="#49313a"/>
+<rect x="27" y="186" width="115" height="2" fill="url(#line)"><animate attributeName="x" values="27;297;27" dur="5s" repeatCount="indefinite"/></rect>
+<path d="M706 66H1039 M706 133H1039 M706 173H1039" stroke="#80535a" stroke-opacity=".55"/>
+<text x="711" y="60" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#cca99b">SHIP</text>
+<text x="711" y="84" font-family="Georgia, serif" font-size="20" fill="#f0ceb7">Real products</text>
+<text x="711" y="128" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#cca99b">EXPLORE</text>
+<text x="711" y="151" font-family="Georgia, serif" font-size="20" fill="#f0ceb7">Intelligent systems</text>
+<circle cx="1022" cy="77" r="6" fill="#cd7c70"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
