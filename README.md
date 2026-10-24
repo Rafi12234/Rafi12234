@@ -1,799 +1,161 @@
-<!-- About Me Section -->
-<img align="center" alt="Coding" width="1000" height="500" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              🚀 ULTIMATE PROFESSIONAL HEADER - RAFI'S PROFILE 🚀        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
+<!-- GitHub profile README for github.com/Rafi12234 -->
 <div align="center">
-
-  
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SHAJEDUL%20KABIR%20RAFI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Creator%20%7C%20AI%20Enthusiast%20%E2%9A%A1&descAlignY=55&descSize=16" width="100%"/>
-  
-  <br/>
-  
-  <!-- ═══════════════════════ VISITOR COUNTER SECTION ═══════════════════════ -->
-  
-  <!-- Animated Visitor Badge -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24,30&height=40&section=header&text=👀%20Profile%20Views&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="300"/>
-  
-  <br/>
-  
-  <!-- Main Visitor Counter with Animation -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Rafi12234&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Rafi12234?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers"/>
-  </p>
-  
-  <!-- Alternative Visitor Counter -->
-  <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRafi12234&count_bg=%23F85D7F&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=Total+Visitors&edge_flat=false" alt="Total Visitors"/>
-  </p>
-  
-  <!-- Interactive Visitor Stats Grid -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://visitorbadge.io/status?path=Rafi12234">
-          <img src="https://api.visitorbadge.io/api/combined?path=Rafi12234&labelColor=%230D1117&countColor=%23F85D7F&style=for-the-badge&labelStyle=upper" alt="Total Visitors"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://visitorbadge.io/status?path=Rafi12234">
-          <img src="https://api.visitorbadge.io/api/daily?path=Rafi12234&labelColor=%230D1117&countColor=%2300D9FF&style=for-the-badge&label=Today" alt="Daily Views"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Decorative Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-  
-  <br/>
-  
+  <a href="https://shajedulkabir.me">
+    <img src="./assets/rafi-banner.svg" width="100%" alt="Shajedul Kabir Rafi — Software Engineer, Product Builder. Ideas Made Real.">
+  </a>
+  <br><br>
+  <strong>Building products that feel considered, useful, and unmistakably human.</strong>
+  <br><br>
+  <a href="https://shajedulkabir.me"><img alt="Explore portfolio" src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-2A0C14?style=for-the-badge&labelColor=2A0C14&color=B96960"></a>
+  <a href="https://www.linkedin.com/in/shajedul-kabir-rafi-4489122b2"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-2A0C14?style=for-the-badge&logo=linkedin&logoColor=F4D9C1&labelColor=2A0C14&color=B96960"></a>
+  <a href="mailto:shajidulkabir12345@gmail.com"><img alt="Email Rafi" src="https://img.shields.io/badge/EMAIL_ME-2A0C14?style=for-the-badge&logo=gmail&logoColor=F4D9C1&labelColor=2A0C14&color=B96960"></a>
 </div>
 
-<!-- Status & Typing Section -->
-<div align="center">
-  
-  <!-- Live Status Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-00D9FF?style=flat-square&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00FF00?style=flat-square&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-F85D7F?style=flat-square&labelColor=0D1117"/>
-  </p>
-  
-  <br/>
-  
-  <!-- Primary Typing Animation -->
-  <a href="https://github.com/Rafi12234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=50&lines=console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);const+passion+%3D+%22Building+Products%22;while(alive)+%7B+eat();+sleep();+code();+%7D;git+commit+-m+%22Made+with+%E2%9D%A4%EF%B8%8F%22" alt="Typing SVG" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Secondary Skills Animation -->
-  <a href="https://github.com/Rafi12234">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=800&color=F8D866&center=true&vCenter=true&repeat=true&random=true&width=700&height=35&lines=%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;%F0%9F%92%99+Flutter+%E2%80%A2+Dart+%E2%80%A2+Firebase+%E2%80%A2+Android+Studio;%F0%9F%A4%96+Python+%E2%80%A2+TensorFlow+%E2%80%A2+Machine+Learning;%F0%9F%8E%A8+TailwindCSS+%E2%80%A2+Figma+%E2%80%A2+UI%2FUX+Design" alt="Skills Typing" />
-  </a>
-
-  <!-- Animated Line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-  <br/>
-
-</div>
-  
-  <!-- Role Animation -->
-  <a href="https://github.com/Rafi12234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=800&height=45&lines=Full-Stack+Developer+%E2%9A%A1+Mobile+App+Creator;React+%7C+Flutter+%7C+Node.js+%7C+Firebase;Transforming+Ideas+into+Digital+Reality;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Roles" />
-  </a>
-  
-</div>
-
-```typescript
-const rafi = {
-    pronouns: "He" | "Him",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    education: "CSE Student @ AUST",
-    
-    currentlyWorking: [
-        "Full-Stack Web Development",
-        "Flutter Mobile Apps", 
-        "AI/ML Experiments"
-    ],
-    
-    learning: ["Next.js", "MongoDB", "DevOps"],
-    askMeAbout: ["React", "Flutter", "Firebase", "Python"],
-    
-    dailyRoutine: {
-        morning: "☕ Coffee",
-        afternoon: "💻 Code",
-        evening: "🔧 Debug",
-        night: "📚 Learn"
-    },
-    
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
 ---
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                    🛠️ ULTIMATE PROFESSIONAL TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+### 01 / HELLO, I'M RAFI
 
-## ⚡ Tech Stack & Expertise
+I'm **Shajedul Kabir Rafi**, a software engineer based in Dhaka, Bangladesh, working across full-stack web applications, mobile products, and applied AI.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I care about the full journey of a product: understanding the problem, shaping the interface, building reliable systems, and refining the details that make software enjoyable to use. Beyond product engineering, I explore computer vision, research, and experimental digital experiences.
 
-<br/>
+> **Ideas made real. Engineering with intention.**
 
-<!-- Animated Header -->
-<a href="https://github.com/Rafi12234">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&random=false&width=500&height=40&lines=💻+Technologies+I+Master;🚀+Tools+That+Power+My+Work;⚡+Always+Evolving+My+Skills" alt="Tech Header"/>
-</a>
+### 02 / CURRENT CHAPTERS
 
-</div>
+| Where I build | What I do |
+| :-- | :-- |
+| **DataPulse Global** | Junior Software Engineer · Dhaka · Jun 2026 – Present |
+| **Boraq** | Full Stack Developer · Remote · Jun 2026 – Present |
+| **AUST Robotics Club** | Director, Web & App Development · Jul 2026 – Present |
 
-<br/>
+<sub>My university engineering work and research are connected to Ahsanullah University of Science and Technology (AUST).</sub>
 
-<!-- ═══════════════════════ LANGUAGES ═══════════════════════ -->
-<div align="center">
+### 03 / SELECTED WORK
 
-### 「 💻 Programming Languages 」
+The work spans production workflows, mobile tools, creative frontends, and experiments in intelligent systems. Here are six of the public repositories I enjoy sharing.
 
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css&theme=dark" alt="Programming Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ FRAMEWORKS ═══════════════════════ -->
-<div align="center">
-
-### 「 🎨 Frontend & Frameworks 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui,sass,redux&theme=dark" alt="Frontend & Frameworks"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ MOBILE ═══════════════════════ -->
-<div align="center">
-
-### 「 📱 Mobile Development 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark" alt="Mobile Development"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ BACKEND ═══════════════════════ -->
-<div align="center">
-
-### 「 ⚙️ Backend & Database 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,sqlite,fastapi&theme=dark" alt="Backend & Database"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ TOOLS ═══════════════════════ -->
-<div align="center">
-
-### 「 🔧 DevOps & Tools 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,vercel,netlify,linux,docker,npm,yarn&theme=dark" alt="DevOps & Tools"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ AI/ML ═══════════════════════ -->
-<div align="center">
-
-### 「 🤖 AI/ML & Data Science 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" alt="AI/ML"/>
-</a>
-
-<br/><br/>
-
-<!-- Additional AI/ML icons using devicons -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-</p>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SKILL ICONS ═══════════════════════ -->
-<div align="center">
-
-### 「 🎯 All Technologies at a Glance 」
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,python,cpp,c,java,html,css,react,nextjs,vite,tailwind,bootstrap,flutter,androidstudio,nodejs,express,firebase,mongodb,mysql,git,github,vscode,postman,figma,vercel,linux,docker&theme=dark&perline=10" alt="Tech Stack"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ ANIMATED ICONS ═══════════════════════ -->
-<div align="center">
-
-### 「 ⚡ Core Competencies 」
-
-<br/>
-
-<p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SKILL BARS ═══════════════════════ -->
-<div align="center">
-
-### 「 📊 Proficiency Levels 」
-
-<br/>
-
-| 🏷️ Category | 🛠️ Technologies | 📈 Proficiency |
-|:----------:|:----------------|:--------------:|
-| **Frontend** | React, Next.js, Vite, TailwindCSS | ![](https://geps.dev/progress/95) |
-| **Mobile** | Flutter, Dart, Android | ![](https://geps.dev/progress/90) |
-| **Backend** | Node.js, Express, Firebase | ![](https://geps.dev/progress/85) |
-| **Database** | MongoDB, MySQL, Firebase | ![](https://geps.dev/progress/80) |
-| **Languages** | JavaScript, Dart, Python, C++ | ![](https://geps.dev/progress/90) |
-| **DevOps** | Git, GitHub Actions, Docker | ![](https://geps.dev/progress/75) |
-| **AI/ML** | TensorFlow, Pandas, NumPy | ![](https://geps.dev/progress/60) |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Stats Summary -->
-<p>
-  <img src="https://img.shields.io/badge/Total_Technologies-40+-F85D7F?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Years_of_Experience-1.5+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Projects_Completed-20+-F8D866?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=🎯+Explore+My+Top+Projects;💡+Built+with+Passion+%26+Purpose;🔥+Innovation+Meets+Code" alt="Projects Header" />
-
-<br/>
-
-<!-- Decorative Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- Project Cards Grid -->
-<table align="center" border="0" cellpadding="20" cellspacing="0">
+<table><tbody>
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🤖_AUST_Robotics_Club_App-6C63FF?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 📱 **Comprehensive Mobile Application** for managing club activities, events, and member engagement
-
-<table>
-<tr><td>📅</td><td>Event scheduling & smart notifications</td></tr>
-<tr><td>👥</td><td>Complete member management system</td></tr>
-<tr><td>📢</td><td>Real-time announcements & updates</td></tr>
-<tr><td>📊</td><td>Activity tracking & analytics</td></tr>
-</table>
-
-<div align="center">
-  
-[![View Repo](https://img.shields.io/badge/View_Repository-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/Make-My-Event-Office-Management-System"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672506/make-my-event.webp" width="100%" alt="MAKE MY EVENT conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/Make-My-Event-Office-Management-System">MAKE MY EVENT ↗</a></strong><br>
+  Office operations, meeting coordination, records, and event-management workflows.<br>
+  <sub>Management systems · Prisma · MySQL</sub>
 </td>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🤰_Pregnancy_Companion-FF6B9D?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,firebase,js&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 💜 **Full-Featured Web Application** providing guidance, tracking & community support for expecting mothers
-
-<table>
-<tr><td>🔐</td><td>Firebase Authentication</td></tr>
-<tr><td>💾</td><td>Firestore Real-time Database</td></tr>
-<tr><td>📦</td><td>Cloud Storage Integration</td></tr>
-<tr><td>⚡</td><td>Real-time sync & updates</td></tr>
-</table>
-
-<div align="center">
-  
-[![Main Repo](https://img.shields.io/badge/Main_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Pregnancy-Companion-Web-App-with-Firebase) [![Alt Repo](https://img.shields.io/badge/Alt_Repo-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Pregnancy-Companion-Web-App)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/Sicko-Soul-Website"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672512/sicko-soul.webp" width="100%" alt="SICKO SOUL conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/Sicko-Soul-Website">SICKO SOUL ↗</a></strong><br>
+  A motion-led, editorial streetwear web experience with expressive interactions.<br>
+  <sub>Next.js · GSAP · Lenis · OGL</sub>
 </td>
 </tr>
-
-<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🎓_Student_Management_System-00D9FF?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 🏫 **Complete Management Solution** with dedicated mobile app & admin panel for AUSTians
-
-<table>
-<tr><td>📱</td><td>Cross-platform mobile application</td></tr>
-<tr><td>💻</td><td>Web-based admin dashboard</td></tr>
-<tr><td>📊</td><td>Data analytics & reports</td></tr>
-<tr><td>🔒</td><td>Secure role-based authentication</td></tr>
-</table>
-
-<div align="center">
-  
-[![App Repo](https://img.shields.io/badge/App_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Student-Management-System-for-AUSTians) [![Admin Panel](https://img.shields.io/badge/Admin_Panel-FF9F43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Student-Management-System-for-AUSTians-Admin-Panel)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/SafePath-BD"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672511/safepath.webp" width="100%" alt="SAFEPATH BD conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/SafePath-BD">SAFEPATH BD ↗</a></strong><br>
+  Road-safety reporting and incident-aware route exploration on real maps.<br>
+  <sub>ASP.NET Core · C# · Leaflet · OSRM</sub>
 </td>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🧠_StratifyAI-A855F7?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,react,python&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 🤖 **AI-Driven Features** exploring intelligent user experiences through modern web technologies
-
-<table>
-<tr><td>🤖</td><td>AI feature integration</td></tr>
-<tr><td>🎯</td><td>Smart recommendations engine</td></tr>
-<tr><td>🔮</td><td>Predictive user interfaces</td></tr>
-<tr><td>✨</td><td>Machine learning models</td></tr>
-</table>
-
-<div align="center">
-  
-[![View Repo](https://img.shields.io/badge/View_Repository-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/StratifyAI)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672512/robotics-mobile.webp" width="100%" alt="AUST ROBOTICS MOBILE conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application">AUST ROBOTICS MOBILE ↗</a></strong><br>
+  Cross-platform club application for events, updates, and the robotics community.<br>
+  <sub>Flutter · Dart · REST APIs</sub>
 </td>
 </tr>
-
-<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🎯_IIUC_25_Version_2.0-10B981?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 🌐 **Modern Web Application** for IIUC event management and coordination
-
-<table>
-<tr><td>🌐</td><td>Fully responsive design</td></tr>
-<tr><td>📱</td><td>Mobile-first interface</td></tr>
-<tr><td>🔄</td><td>Real-time event updates</td></tr>
-<tr><td>👥</td><td>User management portal</td></tr>
-</table>
-
-<div align="center">
-  
-[![View Repo](https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/IIUC_25_Version2.0)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/AI-ASSISTED-DEEPFAKE-IMAGE-AND-VIDEO-DETECTION-SYSTEM"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672504/deepfake.webp" width="100%" alt="DEEPFAKE DETECTION conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/AI-ASSISTED-DEEPFAKE-IMAGE-AND-VIDEO-DETECTION-SYSTEM">DEEPFAKE DETECTION ↗</a></strong><br>
+  AI-assisted media verification exploring risk signals and human review.<br>
+  <sub>Next.js · FastAPI · PyTorch · OpenCV</sub>
 </td>
 <td width="50%" valign="top">
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/🤖_Robomania_2.0_WebApp-F59E0B?style=for-the-badge&logoColor=white" alt="Project Badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Tech Stack"/>
-
-</div>
-
-<br/>
-
-> 🏆 **Comprehensive Web Platform** for robotics competition management & participant engagement
-
-<table>
-<tr><td>🏆</td><td>Competition tracking system</td></tr>
-<tr><td>📊</td><td>Live leaderboards</td></tr>
-<tr><td>📝</td><td>Registration & team management</td></tr>
-<tr><td>🎮</td><td>Interactive dashboard</td></tr>
-</table>
-
-<div align="center">
-  
-[![View Repo](https://img.shields.io/badge/View_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234/Robomania-2.0-Main-_WebApp)
-
-</div>
-
+  <a href="https://github.com/Rafi12234/FlareSphere-Real-Time-Hand-Tracking-Fireball-Effect"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_640/v1792672505/flaresphere.webp" width="100%" alt="FLARESPHERE conceptual project artwork"></a><br>
+  <strong><a href="https://github.com/Rafi12234/FlareSphere-Real-Time-Hand-Tracking-Fireball-Effect">FLARESPHERE ↗</a></strong><br>
+  Gesture-controlled particles and cinematic fireball visuals using hand tracking.<br>
+  <sub>React · MediaPipe · Canvas</sub>
 </td>
 </tr>
-</table>
+</tbody></table>
 
-<br/>
+<sub>Project cover images are conceptual portfolio artwork, not verified screenshots of the apps. Individual repositories describe their current implementation status.</sub>
 
-<!-- Decorative Divider -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <br>
+  <a href="https://shajedulkabir.me"><strong>Explore the full 18-project portfolio ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Rafi12234?tab=repositories"><strong>Browse all repositories ↗</strong></a>
+  <br><br>
 </div>
 
-<br/>
+### 04 / RESEARCH & EXPLORATION
 
-## 🧪 Mini Projects & Experiments
+My research interests span **multimodal AI, computer vision, trustworthy systems, geospatial intelligence, and medical-image analysis**. The portfolio distinguishes accepted work from submitted proposals and ongoing investigations.
+
+| Research direction | Current record |
+| :-- | :-- |
+| **BanglaFakeMMD** · multimodal Bangla fake-news detection | Accepted & presented |
+| **Visual Inattention Profiling** · driver monitoring with YOLO and OCR | Accepted for presentation |
+| **CA-DAC** · AI-augmented zero-trust framework | Accepted; electronic copyright form completed |
+| **Geospatial health AI** · child malnutrition spatial prediction | Proposal submitted |
+| **Medical image analysis** · histopathology classification | Research in progress |
+
+<a href="https://shajedulkabir.me/#research"><strong>Explore the research archive ↗</strong></a>
+
+### 05 / TECH I BUILD WITH
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=📂+Explore+More+Creations;🔬+Experiments+%26+Fun+Projects;💡+Ideas+Brought+to+Life" alt="Mini Projects Header" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,cs,react,nextjs,astro,flutter,tailwind,nodejs,express,fastapi,mysql,postgres,prisma,firebase,pytorch,opencv,git,github,vercel&perline=11&theme=dark" alt="Technology icons: TypeScript, JavaScript, Python, Dart, C#, React, Next.js, Astro, Flutter, Tailwind CSS, Node.js, Express, FastAPI, MySQL, PostgreSQL, Prisma, Firebase, PyTorch, OpenCV, Git, GitHub and Vercel">
 </div>
 
-<br/>
+| Focus | Tools and technologies |
+| :-- | :-- |
+| **Web & frontend** | TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS |
+| **Mobile** | Flutter, Dart, React Native / Expo |
+| **Backend & data** | Node.js, Express, FastAPI, ASP.NET Core, MySQL, PostgreSQL, Prisma, Firebase |
+| **AI & vision** | Python, PyTorch, OpenCV, scikit-learn, YOLO |
+| **Motion & delivery** | GSAP, Lenis, Cloudinary, Vercel, Git |
 
-<details>
-<summary>
-<img src="https://img.shields.io/badge/🎨_WEB_APPLICATIONS-6C63FF?style=for-the-badge" alt="Web Apps"/>
-</summary>
+<sub>These technologies appear across different projects and experiments; not every tool is used in every project.</sub>
 
-<br/>
+### 06 / RECOGNITION
 
-<div align="center">
+- **Hackathon Champion — AUST CSE Carnival 7.0 (2026)** · First place with **Team NULL**.
+- **Best Panel Member — AUST Robotics Club (2026)** · Web & App Development Team, Fall 2024 panel.
+- **Research Symposium 1.0 — 1st Runner-Up (2025)** · Research recognition with **Team Respire**.
 
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| [![Ecommerce](https://img.shields.io/badge/Full--Stack_Ecommerce-FF6B6B?style=flat-square&logo=shopify&logoColor=white)](https://github.com/Rafi12234/Full-Stack-Demo-Ecommerce) | Complete e-commerce platform demo | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [![Firebase Demo](https://img.shields.io/badge/Firebase_Integration-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Rafi12234/Demo-Web-App-with-Firebase-Integration) | Firebase features showcase | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| [![NutriTrack](https://img.shields.io/badge/NutriTrack-4CAF50?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/Rafi12234/NutriTrack) | Nutrition tracking application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<a href="https://shajedulkabir.me/#achievements"><strong>View achievements and supporting highlights ↗</strong></a>
 
-</div>
+### 07 / THE PERSONAL PORTFOLIO
 
-</details>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/🤖_AI/ML_TOOLS-A855F7?style=for-the-badge" alt="AI/ML"/>
-</summary>
-
-<br/>
+I built **[shajedulkabir.me](https://shajedulkabir.me)** as a more expressive home for my work: an editorial, motion-led portfolio with responsive project galleries, an interactive research archive, engineering chapters, and the work behind them.
 
 <div align="center">
-
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| [![AI Image Gen](https://img.shields.io/badge/AI_Image_Generator-8B5CF6?style=flat-square&logo=openai&logoColor=white)](https://github.com/Rafi12234/Ai-Image-Generator) | Jupyter notebook for image generation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [![PDF to Audio](https://img.shields.io/badge/PDF_to_Audio-EC4899?style=flat-square&logo=adobe&logoColor=white)](https://github.com/Rafi12234/Pdf-to-Audio-Convertor) | Python utility for text-to-speech | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</div>
-
-</details>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/📊_UTILITIES-00D9FF?style=for-the-badge" alt="Utilities"/>
-</summary>
-
-<br/>
-
-<div align="center">
-
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| [![WhatsApp Analyzer](https://img.shields.io/badge/WhatsApp_Analyzer-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/Rafi12234/WhatsApp-Messages-Analyzer) | Chat history analysis tool | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [![Product Detector](https://img.shields.io/badge/Product_Identifier-EF4444?style=flat-square&logo=target&logoColor=white)](https://github.com/Rafi12234/Detecting-Israeli-Product) | Product identification system | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
-</div>
-
-</details>
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/🎮_FUN_PROJECTS-F59E0B?style=for-the-badge" alt="Fun Projects"/>
-</summary>
-
-<br/>
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| [![Flappy Bird](https://img.shields.io/badge/🐦_Flappy_Bird-84CC16?style=for-the-badge)](https://github.com/Rafi12234/Flappy--Bird) | [![Tic Tac Toe](https://img.shields.io/badge/⭕_Tic_Tac_Toe-3B82F6?style=for-the-badge)](https://github.com/Rafi12234/tic-tac-toe) | [![Calculator](https://img.shields.io/badge/🔢_Calculator-8B5CF6?style=for-the-badge)](https://github.com/Rafi12234/calculator_app) | [![Note App](https://img.shields.io/badge/📝_Note_App-F97316?style=for-the-badge)](https://github.com/Rafi12234/Note-App) |
-| Classic game recreation | Interactive game | Simple calculator | Note-taking app |
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<!-- Call to Action -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer&animation=twinkling" width="100%"/>
-
-<br/>
-
-[![Explore All Repos](https://img.shields.io/badge/🔍_Explore_All_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafi12234?tab=repositories)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=⭐+Star+the+repos+if+you+find+them+useful!;🤝+Open+to+collaborations+%26+contributions" alt="Footer Message" />
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafi12234&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi12234&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak Stats - Using official DemoLab domain -->
-<img src="https://streak-stats.demolab.com/?user=Rafi12234&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak Stats"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rafi12234&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafi12234&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area_color=F8D866&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
-<!-- Summary Cards as Backup -->
-<details>
-<summary>📈 Alternative Stats View (Click to Expand)</summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi12234&theme=radical" alt="Profile Details"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafi12234&theme=radical" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafi12234&theme=radical" alt="Most Commit Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafi12234&theme=radical" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi12234&theme=radical&utcOffset=6" alt="Productive Time"/>
-
-</div>
-</details>
-
----
-
----
-
-## 🌍 Global Contribution Insights
-
-<div align="center">
-  <img
-    src="https://ssr-contributions-svg.vercel.app/_/Rafi12234?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
-    alt="3D Contribution Chart"
-    width="100%"
-  />
+  <a href="https://shajedulkabir.me">
+    <img src="https://raw.githubusercontent.com/Rafi12234/Portfolio---Shajedul-Kabir-Rafi/main/preview/desktop-1440.png" width="100%" alt="Desktop preview of Shajedul Kabir Rafi's personal portfolio">
+  </a>
+  <br>
+  <sub>Built with Astro, TypeScript, GSAP, Lenis, and Cloudinary-hosted visuals.</sub>
+  <br><br>
+  <a href="https://shajedulkabir.me"><strong>Visit the live experience ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Rafi12234/Portfolio---Shajedul-Kabir-Rafi"><strong>See the source ↗</strong></a>
 </div>
 
 ---
 
-## 🎯 Current Goals & Roadmap
-
-```mermaid
-graph LR
-    A[✅ Master React & Firebase] --> B[⏳ Learn Next.js]
-    B --> C[⏳ MongoDB Integration]
-    C --> D[🎯 Full-Stack Production App]
-    A --> E[⏳ CI/CD with GitHub Actions]
-    E --> F[🎯 Deploy Demo Projects]
-    A --> G[✅ Build Flutter Apps]
-    G --> H[🎯 Play Store Launch]
-```
-
-### 🔥 In Progress
-- 📚 Learning Next.js for server-side rendering
-- 🗄️ Integrating MongoDB in full-stack projects
-- 🧪 Writing unit tests & implementing CI/CD with GitHub Actions
-- 🚀 Deploying production-ready demos (Vercel/Render)
-
-### ✅ Recently Completed
-- 📸 Added screenshots/GIFs for project READMEs
-- 📝 Added descriptions + live demo links
-- 🎨 Enhanced GitHub profile with dynamic widgets
-- 🤖 Built IIUC 25 and Robomania 2.0 platforms
-
-### ✨ Upcoming
-- 🔐 Refactor Firebase rules & add security notes
-- 📱 Launch apps on Google Play Store
-- 🤝 Contribute to open-source projects
-- 📝 Write technical blogs & tutorials
-
----
-
-## 🏆 Achievements & Highlights
-
-```
-📦 20+ Projects Built        🚀 Active GitHub Contributor
-🎓 CSE Student               💡 Problem Solver
-🔧 Full-Stack Developer      📱 Mobile App Creator
-🤖 AI/ML Enthusiast          ☕ Coffee-Powered Coder
-```
-
----
-
-## 💭 Random Dev Quote
-
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-murex-kappa-83.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___r_._a_._f_._i___)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shajidul.kabir.5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
-<div align="center">
-
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-⭐️ **If you like my work, consider giving a star to my repositories!**
-
-**Made with ❤️ and lots of ☕**
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    👁️ TOTAL PROFILE ENGAGEMENT METRICS                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=2&section=footer" width="100%"/>
-
-<br/>
-
-<!-- Footer Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafi12234&style=flat-square&color=F85D7F&label=Total+Profile+Views" alt="Total Views"/>
-  <img src="https://img.shields.io/github/followers/Rafi12234?label=Followers&style=flat-square&color=00D9FF&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Rafi12234?label=Total%20Stars&style=flat-square&color=F8D866&logo=github" alt="Total Stars"/>
-</p>
-
-<!-- Thank You Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀" alt="Thank You" />
-
-<br/>
-
-<!-- Final Decorative Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,24&height=100&section=footer" width="100%"/>
-
+  <h3>LET'S BUILD SOMETHING THAT MATTERS.</h3>
+  <p>Interested in thoughtful software, digital products, research, or creative engineering?<br>I'd be glad to connect.</p>
+  <a href="mailto:shajidulkabir12345@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shajedul-kabir-rafi-4489122b2">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Rafi12234">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/___r_._a_._f_._i___/?hl=en">Instagram</a>
+  <br><br>
+  <sub>Dhaka, Bangladesh · Always building the next thing.</sub>
 </div>
