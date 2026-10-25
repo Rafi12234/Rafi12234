@@ -6,12 +6,8 @@
 
   <!-- ════════════════════ ORIGINAL-STYLE ANIMATED INTRO ════════════════════ -->
   <a href="https://shajedulkabir.me">
-    <img src="https://raw.githubusercontent.com/Rafi12234/Portfolio---Shajedul-Kabir-Rafi/main/preview/desktop-1440.png" alt="Shajedul Kabir Rafi personal website, desktop homepage" width="100%"/>
+    <img src="./assets/rafi-motion-header.svg" alt="SHAJEDUL KABIR RAFI — Software Engineer and Product Builder; animated burgundy and cream editorial banner" width="100%"/>
   </a>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:160A0E,55:6A2636,100:160A0E&amp;height=220&amp;section=header&amp;text=SHAJEDUL%20KABIR%20RAFI&amp;fontSize=44&amp;fontColor=F5DFCA&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Mobile%20%26%20AI&amp;descAlignY=57&amp;descSize=16" alt="Animated Shajedul Kabir Rafi banner" width="100%"/>
 
   <br/>
 
@@ -303,220 +299,136 @@ const rafi = {
 <table align="center" border="0" cellpadding="18" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/01__MANAGEMENT_SYSTEMS-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="01 / MANAGEMENT SYSTEMS"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/Make-My-Event-Office-Management-System"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672506/make-my-event.webp" alt="MAKE MY EVENT conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=nextjs,react,prisma,mysql&amp;theme=dark" alt="MAKE MY EVENT core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>MAKE MY EVENT</strong> — Internal office and event-management workflows for coordinating day-to-day operations.</blockquote>
-
   <table>
       <tr><td>✦</td><td>Client, meeting, and staff workflows</td></tr>
       <tr><td>✦</td><td>Attendance, vendor, and finance records</td></tr>
       <tr><td>✦</td><td>PDF proposals and event operations</td></tr>
   </table>
-
   <sub>Prisma · MySQL · modular APIs</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/Make-My-Event-Office-Management-System"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View MAKE MY EVENT repository"/></a>
   </div>
-
 </td>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/02__CREATIVE_CLIENT_WORK-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="02 / CREATIVE CLIENT WORK"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/Sicko-Soul-Website"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672512/sicko-soul.webp" alt="SICKO SOUL conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=nextjs,react,js&amp;theme=dark" alt="SICKO SOUL core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>SICKO SOUL</strong> — A dark editorial digital experience for an independent streetwear brand.</blockquote>
-
   <table>
       <tr><td>✦</td><td>Motion-led website and page transitions</td></tr>
       <tr><td>✦</td><td>Custom visual storytelling</td></tr>
       <tr><td>✦</td><td>GSAP and Lenis interactions</td></tr>
   </table>
-
   <sub>Next.js 15 · React 19 · GSAP · Lenis · OGL</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/Sicko-Soul-Website"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View SICKO SOUL repository"/></a>
   </div>
-
 </td>
 </tr>
 <tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated section divider" width="100%"/></td></tr>
 <tr>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/03__GEO-SPATIAL_WEB-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="03 / GEO-SPATIAL WEB"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/SafePath-BD"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672511/safepath.webp" alt="SAFEPATH BD conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=dotnet,cs,js&amp;theme=dark" alt="SAFEPATH BD core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>SAFEPATH BD</strong> — Incident-aware road-safety reporting and map-based route exploration.</blockquote>
-
   <table>
       <tr><td>✦</td><td>Community reports and moderation</td></tr>
       <tr><td>✦</td><td>Alternative routes around verified incidents</td></tr>
       <tr><td>✦</td><td>Leaflet / OSRM map integration</td></tr>
   </table>
-
   <sub>ASP.NET Core · C# · Leaflet · OSRM</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/SafePath-BD"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View SAFEPATH BD repository"/></a>
   </div>
-
 </td>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/04__MOBILE_DEVELOPMENT-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="04 / MOBILE DEVELOPMENT"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672512/robotics-mobile.webp" alt="AUST ROBOTICS APP conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&amp;theme=dark" alt="AUST ROBOTICS APP core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>AUST ROBOTICS APP</strong> — A cross-platform mobile experience for AUST Robotics Club.</blockquote>
-
   <table>
       <tr><td>✦</td><td>Events and club announcements</td></tr>
       <tr><td>✦</td><td>Community and member updates</td></tr>
       <tr><td>✦</td><td>Cross-platform Flutter interface</td></tr>
   </table>
-
   <sub>Flutter · Dart · REST APIs</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/AUST-Robotics-Club-Mobile-Application"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View AUST ROBOTICS APP repository"/></a>
   </div>
-
 </td>
 </tr>
 <tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated section divider" width="100%"/></td></tr>
 <tr>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/05__INTELLIGENT_SYSTEMS-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="05 / INTELLIGENT SYSTEMS"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/AI-ASSISTED-DEEPFAKE-IMAGE-AND-VIDEO-DETECTION-SYSTEM"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672504/deepfake.webp" alt="DEEPFAKE DETECTION conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=nextjs,python,pytorch&amp;theme=dark" alt="DEEPFAKE DETECTION core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>DEEPFAKE DETECTION</strong> — AI-assisted media verification focused on interpretable risk signals.</blockquote>
-
   <table>
       <tr><td>✦</td><td>Image/video analysis architecture</td></tr>
       <tr><td>✦</td><td>Confidence-based review signals</td></tr>
       <tr><td>✦</td><td>Human-in-the-loop workflow design</td></tr>
   </table>
-
   <sub>Next.js · FastAPI · PyTorch · OpenCV</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/AI-ASSISTED-DEEPFAKE-IMAGE-AND-VIDEO-DETECTION-SYSTEM"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View DEEPFAKE DETECTION repository"/></a>
   </div>
-
 </td>
 <td width="50%" valign="top">
-
   <div align="center">
-
     <img src="https://img.shields.io/badge/06__CREATIVE_CODING-7B3040?style=for-the-badge&amp;labelColor=160A0E" alt="06 / CREATIVE CODING"/>
-
     <br/><br/>
-
     <a href="https://github.com/Rafi12234/FlareSphere-Real-Time-Hand-Tracking-Fireball-Effect"><img src="https://res.cloudinary.com/wujcxa24/image/upload/f_auto,q_auto:good,c_limit,w_680/v1792672505/flaresphere.webp" alt="FLARESPHERE conceptual project artwork" width="100%"/></a>
-
     <br/><br/>
-
     <img src="https://skillicons.dev/icons?i=react,vite,js&amp;theme=dark" alt="FLARESPHERE core technology icons"/>
-
   </div>
-
   <br/>
-
   <blockquote><strong>FLARESPHERE</strong> — A gesture-controlled cinematic fireball powered by hand tracking.</blockquote>
-
   <table>
       <tr><td>✦</td><td>MediaPipe hand landmarks</td></tr>
       <tr><td>✦</td><td>Live canvas particle system</td></tr>
       <tr><td>✦</td><td>Gesture smoothing and interaction</td></tr>
   </table>
-
   <sub>React · MediaPipe · Canvas · Vite</sub>
-
   <br/><br/>
-
   <div align="center">
     <a href="https://github.com/Rafi12234/FlareSphere-Real-Time-Hand-Tracking-Fireball-Effect"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7B3040?style=for-the-badge&amp;logo=github&amp;logoColor=F5DFCA&amp;labelColor=160A0E" alt="View FLARESPHERE repository"/></a>
   </div>
-
 </td>
 </tr>
 </table>
@@ -693,13 +605,13 @@ const rafi = {
 ## 🎯 Current Goals & Roadmap
 
 ```mermaid
-graph LR
-  A[✅ Built with React + Next.js] --> B[🔧 Refine full-stack product delivery]
-  A --> C[✅ Shipped Flutter projects]
-  B --> D[🎯 Better testing and CI/CD]
-  C --> E[🎯 Improve mobile release pipelines]
-  B --> F[🧪 Applied AI and research]
-  F --> G[🎯 Reproducible, verifiable experiments]
+flowchart LR
+  A["React and Next.js products"] --> B["Refine product delivery"]
+  A --> C["Flutter applications"]
+  B --> D["Testing and CI/CD"]
+  C --> E["Mobile release workflows"]
+  B --> F["Applied AI and research"]
+  F --> G["Reproducible experiments"]
 ```
 
 ### 🔥 In Progress
@@ -779,6 +691,6 @@ graph LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:160A0E,50:6B2936,100:160A0E&amp;height=125&amp;section=footer&amp;animation=twinkling" alt="Animated burgundy portfolio-theme footer" width="100%"/>
+<img src="./assets/rafi-signoff.svg" alt="Animated RAFI sign-off — Always building the next thing" width="100%"/>
 
 </div>
